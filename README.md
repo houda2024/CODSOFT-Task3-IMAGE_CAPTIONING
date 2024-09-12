@@ -36,6 +36,7 @@ The dataset is structured as follows:
 
 ## Project Structure
 
+
 ## Installation
 
 ### Prerequisites
@@ -45,7 +46,9 @@ The dataset is structured as follows:
 
 ### Required Libraries
 Install the required Python libraries using the following command:
+
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib tensorflow keras sklearn pillow tqdm
+
 
 
