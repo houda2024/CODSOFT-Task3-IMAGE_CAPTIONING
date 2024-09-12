@@ -36,3 +36,16 @@ The dataset is structured as follows:
 
 ## Project Structure
 
+## Installation
+
+### Prerequisites
+- Python 3.x
+- Jupyter Notebook or a similar environment.
+- Kaggle account (if running the code on Kaggle).
+
+### Required Libraries
+Install the required Python libraries using the following command:
+```bash
+pip install -r requirements.txt
+
+
